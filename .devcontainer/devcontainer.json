@@ -1,0 +1,6 @@
+{
+  "name": "NGINX Development",
+  "image": "nginx",
+  "extensions": [],
+  "forwardPorts": [80, 443]
+}
